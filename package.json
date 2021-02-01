@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nvalerio12/my-first-node-project-11/issues"
   },
-  "homepage": "https://github.com/nvalerio12/my-first-node-project-11#readme"
+  "homepage": "https://github.com/nvalerio12/my-first-node-project-11#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
